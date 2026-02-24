@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "たんけんデイズ",
+  "base_artist": "どうぶつビスケッツ",
+  "createdAt": "2026-02-24T01:13:02.838487Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "たんけんデイズ",
+      "artist": "どうぶつビスケッツ",
+      "has_synced": false,
+      "path": "select/pl_01_たんけんデイズ_どうぶつビスケッツ.txt"
+    }
+  ]
+}
